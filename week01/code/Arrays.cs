@@ -1,11 +1,12 @@
 public static class Arrays
 {
+    
     public static double[] MultiplesOf(double number, int length)
     {
         // Step 1: Create an array of doubles with the specified length
         double[] result = new double[length];
 
-        // Step 2: Fill the array with multiples of the input number
+        // Step 2: Fill this array with multiples of the input number
         // The first element is number*1, second is number*2, etc.
         for (int i = 0; i < length; i++)
         {
