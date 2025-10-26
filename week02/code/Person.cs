@@ -1,4 +1,4 @@
-#W02 Code: Queues
+//W02 Code: Queues
 
 public class Person
 {
